@@ -1,52 +1,21 @@
-## Numpy-Fundamentals-in-Pytorch
-This repository contains a comprehensive NumPy tutorial for beginners and intermediate users. It covers array creation, indexing, slicing, reshaping, mathematical operations, boolean masking, conditional selection, and random number generation. Each section includes explanations and examples.
+##NumPy Fundamentals
 
-#Contents
+A beginner-friendly guide to NumPy, covering the essentials for numerical computing in Python. Perfect for building a strong foundation for data science, machine learning, and scientific computing.
 
-Creating Arrays
+#Key Topics
 
-Converting Python lists to NumPy arrays
+Array creation and data types
 
-Using np.array(), np.zeros(), np.ones(), np.full(), np.arange()
+Indexing, slicing, and reshaping
 
-Array Operations
+Mathematical operations and functions
 
-Element-wise operations: +, -, *, /
+Boolean indexing and conditional selection
 
-Mathematical functions: np.sqrt(), np.exp(), np.absolute()
+Random number generation
 
-Sign detection: np.sign() returns -1 for negatives, 0 for zero, and 1 for positives
+#Contact
 
-Indexing and Slicing
+If you have questions, feedback, or suggestions, feel free to reach out:
 
-1D and 2D slicing
-
-Steps in slicing (e.g., arr[::2])
-
-Boolean indexing
-
-Reshaping and Flattening
-
-reshape() to change array dimensions
-
-flatten() or reshape(-1) to convert multi-dimensional arrays to 1D
-
-Conditional Selection
-
-np.where(condition, x, y) to select values based on condition
-
-Example: select elements greater than a threshold or replace others
-
-Sorting and Iterating
-
-np.sort() for sorting arrays
-
-Iterating with np.nditer()
-
-Summing along axes using np.sum(axis=...)
-
-Random Numbers
-
-np.random.default_rng() for random number generation
-
-integers(), uniform() for generating random ints or floats
+Email: barkin.adiguzel@gmail.com
