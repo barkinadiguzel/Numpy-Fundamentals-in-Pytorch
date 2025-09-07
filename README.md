@@ -1,21 +1,12 @@
-##NumPy Fundamentals
+# NumPy Tutorial
 
-A beginner-friendly guide to NumPy, covering the essentials for numerical computing in Python. Perfect for building a strong foundation for data science, machine learning, and scientific computing.
+Beginner-friendly tutorial for learning NumPy basics: creating arrays, indexing, slicing, reshaping, performing arithmetic operations, statistical functions, and basic linear algebra.
 
-#Key Topics
+## Quick Start
 
-Array creation and data types
+```bash
+pip install numpy
+```
+## Feedback
 
-Indexing, slicing, and reshaping
-
-Mathematical operations and functions
-
-Boolean indexing and conditional selection
-
-Random number generation
-
-#Contact
-
-If you have questions, feedback, or suggestions, feel free to reach out:
-
-Email: barkin.adiguzel@gmail.com
+For feedback or questions, contact: [barkin.adiguzel@gmail.com](mailto:barkin.adiguzel@gmail.com)
