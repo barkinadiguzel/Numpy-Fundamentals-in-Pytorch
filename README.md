@@ -5,7 +5,7 @@ Beginner-friendly tutorial for learning NumPy basics: creating arrays, indexing,
 ## Quick Start
 
 ```bash
-pip install torch matplotlib numpy scikit-learn
+pip install numpy
 ```
 ## Feedback
 
